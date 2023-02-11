@@ -1,4 +1,19 @@
 //Run with at least Serial & Joystick USB modes
+//Teensy LC
+//Joystick X axis = A0
+//Joystick Y axis = A1
+//Joystick Z axis = A2
+//Rotary Encoder = pins 11 and 12
+//Joystick Button = pin0
+//Button 1 = pin1
+//Button 2 = pin2
+//Button 3 = pin3
+//Button 4 = pin4
+//
+//Joystick = 4-Axis Joystick Potentiometer Button Controller for JH-D400X-R4 10K 4D
+//Teensy = Teensy LC USB Microcontroller Development Board ARM MKL26Z64 Without Pins
+//Rotary Encoder = Electronic Handwheel MPG 6 Terminals Pulse Generator Encoder 100P/R 5V 60mm
+//Buttons = 28MM One Piece Arcade Push Button (wired from ground thru switch to teensy pin)
 
 typedef struct button
 {
